@@ -1,9 +1,9 @@
-# 自己紹介 / Profile
+# Hayate.H (@cloud8high)
 
-## Hayate.H (@cloud8high)
+## 自己紹介
 SIer勤務の4年目・週末エンジニア  
 2018年から新卒で大手SIerに勤める。企画系の部署に所属中。  
-この GitHub では、個人開発したアプリを公開しています。  
+GitHub では、個人開発したアプリを公開しています。  
 ライトニングトークで登壇することが好きです。
 
 - GitHub : [@cloud8high](https://github.com/cloud8high)
@@ -11,7 +11,75 @@ SIer勤務の4年目・週末エンジニア
 - Qiita : [hayate_h](https://qiita.com/hayate_h)
 - YouTube : [HayaTech Channel](https://www.youtube.com/channel/UCkWKe-aNQH3ALygSnt81VPw)
 
-## 活動履歴
+## 活動履歴（主要なもののみ）
+### ライトニングトーク・登壇
+
+#### 2021年5月28日　［社内］ライトニングトーク大会 （5分登壇）
+- タイトル：全人類歓喜！『恋愛相談SNS』作りました
+- 発表内容：Vue.js と AWS Amplify を使って、恋愛相談SNS を作った。という話。
+- 使用技術：Vue.js, AWS Amplify
+- 開催概要：準備中
+- 資料公開：準備中
+
+#### 2021年3月9日　［社内］クラウド勉強会 #15 （15分登壇）
+- タイトル：AWS ANGEL Dojo Season2 参加報告
+- 発表内容：2020年6月～9月にかけて参加をした、[AWS ANGEL Dojo](https://aws.amazon.com/jp/blogs/psa/angel-dojo-season2-2020/) についての報告
+- 使用技術：Vue.js, AWS Amplify, 他AWSサービス多数
+- 開催概要：https://blog.usize-tech.com/sctc15-report/
+- 資料公開：[Speaker Deck](https://speakerdeck.com/techharmony/angel-dojo-season2-bao-gao-hui)
+
+#### 2020年10月1日　［社内］クラウド勉強会 #13 （5分登壇）
+- タイトル：AWS Lambda の execution context が奥深い件
+- 発表内容：（タイトル通り）
+- 使用技術：AWS Lambda, Python
+- 開催概要：無し
+- 資料公開：無し
+
+#### 2020年8月28日　［社外］AWS 主催イベント（ANGEL Dojo LT） （5分登壇）
+- タイトル：にんじん作戦で組織を動かす！
+- 発表内容：所属組織を「にんじん」で動かす活動をしました。という話
+- 使用技術：AWS Lambda, Python
+- 開催概要：無し（ANGEL Dojo 自体は[こちら](https://aws.amazon.com/jp/blogs/psa/angel-dojo-season2-2020/)）
+- 資料公開：無し
+
+#### 2020年7月13日　［社内］クラウド勉強会 #12 （5分登壇）
+- タイトル：AWS Chalice を使って RESTful API を3分でデプロイする（ライブコーディング）
+- 発表内容：AWS Chalice という Python のフレームワークを利用すると、Lambda のデプロイが簡単です。という話をライブコーディングを交えて紹介
+- 使用技術：AWS Chalice, Lambda, Python
+- 開催概要：無し
+- 資料公開：無し
+
+#### 2019年11月23日　［社外］SORACOM UG Explorer 2019 （5分登壇）
+- タイトル：【速報】俺氏、モテキ到来www
+- 発表内容：今世紀最大の発明！ 押すとモテキが来るスイッチ、「モテモテスイッチ」を開発しました。
+- 使用技術：AmazonConnect, AWS-IoT, Lambda, SORACOM LTE-M Button, Python
+- 開催概要：https://explorer2019.soracom-ug.jp/
+- 資料公開：[Speaker Deck](https://speakerdeck.com/hayate_h/su-bao-an-shi-motekidao-lai-www-number-soracom-ug-number-explorer2019)
+- 補足情報：一つ下の「IoTLT」と概ね同じ内容。IoTLTを聞いていた方から紹介を受けて登壇。
+
+#### 2019年10月15日　［社外］IoTLT vol.56 （5分登壇）
+- タイトル：【速報】俺氏、モテキ到来www
+- 発表内容：今世紀最大の発明！ 押すとモテキが来るスイッチ、「モテモテスイッチ」を開発しました。
+- 使用技術：AmazonConnect, AWS-IoT, Lambda, SORACOM LTE-M Button, Python
+- 開催概要：https://iotlt.connpass.com/event/145925/
+- 資料公開：[Speaker Deck](https://speakerdeck.com/hayate_h/su-bao-an-shi-motekidao-lai-www-number-iotlt)
+- 補足情報：一つ下の「社内LT大会」と概ね同じ内容。社内LTを聞いていた方から紹介を受けて登壇。
+
+#### 2019年9月13日　［社内］ライトニングトーク大会 （5分登壇）
+- タイトル：【速報】俺氏、モテキ到来www
+- 発表内容：今世紀最大の発明！ 押すとモテキが来るスイッチ、「モテモテスイッチ」を開発しました。
+- 使用技術：AmazonConnect, AWS-IoT, Lambda, SORACOM LTE-M Button, Python
+- 開催概要：https://technomado.jp/tech/6472/
+- 資料公開：無し
+
+#### 2019年5月27日　［社内］クラウド勉強会 #9 （5分登壇）
+- タイトル：AmazonConnectで○○を作る
+- 発表内容：片思いの相手に、機械音声で告白できるサービスを作りました。
+- 使用技術：AmazonConnect, Lambda, DynamoDB, Python
+- 開催概要：無し
+- 資料公開：無し
+
+
 ### ハッカソンなど
 <details>
 <summary>クリックして展開してください</summary>
@@ -19,7 +87,7 @@ SIer勤務の4年目・週末エンジニア
 #### 2020年6月～9月　AWS ANGEL Dojo Season2 @オンライン
 - タイトル：休日の予定提案アプリ「StanBee」
 - 作った物：ユーザーに最適のおでかけスポットを提案してくれるWEBアプリを作成。「ANGEL賞」「ベストアーキテクチャ賞」を受賞
-- 使用技術：AWS Amplify, Vue.js, 他AWSサービス多数
+- 使用技術：Vue.js, AWS Amplify, 他AWSサービス多数
 - 開催概要：https://aws.amazon.com/jp/blogs/psa/angel-dojo-season2-2020/
 - 報告記事：[AWS builders.flash](https://aws.amazon.com/jp/builders-flash/202101/learning-from-angel-dojo/?awsf.filter-name=*all) に寄稿
 
@@ -32,7 +100,20 @@ SIer勤務の4年目・週末エンジニア
 #### 2018年10月26日, 27日　社内ハッカソン@東京
 - タイトル：ノンプログラミングでIoT農業！
 - 作った物：植物の近くに湿度センサーを置き、湿度が低いと、LINEに「お水が欲しい」と通知が飛ぶ。加えてトイドローンが水をやりに飛ぶ。というシステム。「準優勝」を受賞。
-- 使用技術：MESH（IoTセンサー）, TELLO（トイドローン）, 自社開発RPA, LINE Notify
+- 使用技術：MESH（IoTセンサー）, TELLO（トイドローン）, CELF（RPA）, LINE Notify
 - 開催概要：公開ページ無し
 
 </details>
+
+### 寄稿記事
+#### AWS builders.flash
+- 2021年2月3日 [ANGEL Dojo を通して、若手エンジニアが学んだこととは ? - builders.flash☆](https://aws.amazon.com/jp/builders-flash/202101/learning-from-angel-dojo/?awsf.filter-name=*all)
+
+### コミュニティー活動（一部）
+#### SORACOM UG
+- [SORACOM UG Explorer 2019](https://explorer2019.soracom-ug.jp/)
+    - 運営当日のお手伝いスタッフ
+    - 中級ハンズオンのサポートスタッフ
+
+#### なんかつくろうの会
+- 社内の技術同好会。もくもく会。月一で活動中。
