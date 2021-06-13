@@ -13,14 +13,18 @@ GitHub では、個人開発したアプリを公開しています。
 
 ## 活動履歴（主要なもののみ）
 ### ライトニングトーク・登壇
-
+<details>
+<summary>2021年度</summary>
 #### 2021年5月28日　［社内］ライトニングトーク大会 （5分登壇）
 - タイトル：全人類歓喜！『恋愛相談SNS』作りました
 - 発表内容：Vue.js と AWS Amplify を使って、恋愛相談SNS を作った。という話。
 - 使用技術：Vue.js, AWS Amplify
 - 開催概要：準備中
 - 資料公開：準備中
+</details>
 
+<details>
+<summary>2020年度</summary>
 #### 2021年3月9日　［社内］クラウド勉強会 #15 （15分登壇）
 - タイトル：AWS ANGEL Dojo Season2 参加報告
 - 発表内容：2020年6月～9月にかけて参加をした、[AWS ANGEL Dojo](https://aws.amazon.com/jp/blogs/psa/angel-dojo-season2-2020/) についての報告
@@ -48,7 +52,10 @@ GitHub では、個人開発したアプリを公開しています。
 - 使用技術：AWS Chalice, Lambda, Python
 - 開催概要：無し
 - 資料公開：無し
+</details>
 
+<details>
+<summary>2019年度</summary>
 #### 2019年11月23日　［社外］SORACOM UG Explorer 2019 （5分登壇）
 - タイトル：【速報】俺氏、モテキ到来www
 - 発表内容：今世紀最大の発明！ 押すとモテキが来るスイッチ、「モテモテスイッチ」を開発しました。
@@ -78,12 +85,12 @@ GitHub では、個人開発したアプリを公開しています。
 - 使用技術：AmazonConnect, Lambda, DynamoDB, Python
 - 開催概要：無し
 - 資料公開：無し
+</details>
 
 
 ### ハッカソンなど
 <details>
-<summary>クリックして展開してください</summary>
-
+<summary>クリックして展開</summary>
 #### 2020年6月～9月　AWS ANGEL Dojo Season2 @オンライン
 - タイトル：休日の予定提案アプリ「StanBee」
 - 作った物：ユーザーに最適のおでかけスポットを提案してくれるWEBアプリを作成。「ANGEL賞」「ベストアーキテクチャ賞」を受賞
@@ -101,15 +108,19 @@ GitHub では、個人開発したアプリを公開しています。
 - タイトル：ノンプログラミングでIoT農業！
 - 作った物：植物の近くに湿度センサーを置き、湿度が低いと、LINEに「お水が欲しい」と通知が飛ぶ。加えてトイドローンが水をやりに飛ぶ。というシステム。「準優勝」を受賞。
 - 使用技術：MESH（IoTセンサー）, TELLO（トイドローン）, CELF（RPA）, LINE Notify
-- 開催概要：公開ページ無し
-
+- 開催概要：公開ページ無し  
 </details>
 
 ### 寄稿記事
+<details>
+<summary>クリックして展開</summary>
 #### AWS builders.flash
-- 2021年2月3日 [ANGEL Dojo を通して、若手エンジニアが学んだこととは ? - builders.flash☆](https://aws.amazon.com/jp/builders-flash/202101/learning-from-angel-dojo/?awsf.filter-name=*all)
+- 2021年2月3日 [ANGEL Dojo を通して、若手エンジニアが学んだこととは ? - builders.flash☆](https://aws.amazon.com/jp/builders-flash/202101/learning-from-angel-dojo/?awsf.filter-name=*all)  
+</details>
 
-### コミュニティー活動（一部）
+### コミュニティー活動・運営
+<details>
+<summary>クリックして展開</summary>
 #### SORACOM UG
 - [SORACOM UG Explorer 2019](https://explorer2019.soracom-ug.jp/)
     - 運営当日のお手伝いスタッフ
@@ -117,3 +128,4 @@ GitHub では、個人開発したアプリを公開しています。
 
 #### なんかつくろうの会
 - 社内の技術同好会。もくもく会。月一で活動中。
+</details>
