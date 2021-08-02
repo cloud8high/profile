@@ -9,6 +9,7 @@ GitHub では、個人開発したアプリを公開しています。
 - GitHub : [@cloud8high](https://github.com/cloud8high)
 - Twitter : [@cloud8high](https://twitter.com/cloud8high)
 - Qiita : [hayate_h](https://qiita.com/hayate_h)
+- TechHarmony : [author](https://blog.usize-tech.com/author/ha-higuchi/)
 - YouTube : [HayaTech Channel](https://www.youtube.com/channel/UCkWKe-aNQH3ALygSnt81VPw)
 
 ## 活動履歴（主要なもののみ）
@@ -16,12 +17,25 @@ GitHub では、個人開発したアプリを公開しています。
 <details>
 <summary>2021年度</summary>
 
+#### 2021年6月25日　［社外］APN New Grads Reunion 2021 #1（15分登壇）
+- タイトル：休日の予定提案アプリ、AWSで作りました。
+- 発表内容：AWS のサービスを活用して、休日の予定を提案してくれるアプリを作りました。という話。
+- 使用技術：Vue.js, AWS Amplify, AWS の各種サービス
+- 開催概要：[【第二回】New Grads Reunion 参加レポート – TechHarmony](https://blog.usize-tech.com/new-grads-reunion/)
+- 資料公開：[Speaker Deck](https://speakerdeck.com/techharmony/new-grads-reunion)
+
+#### 2021年6月11日　［社外］AWS ANGEL Dojo Season3（20分登壇）
+- タイトル：ANGEL Dojo 体験記
+- 発表内容：ANGEL Dojo 卒業生として、Dojo での学びやその後の業務での活用秘話を紹介。作成したアプリの紹介と技術解説など。
+- 開催概要：[ANGEL Dojo for エンドユーザー & AWS パートナー](https://aws.amazon.com/jp/blogs/psa/2021-06-angel-dojo/)
+- 資料公開：非公開
+
 #### 2021年5月28日　［社内］ライトニングトーク大会 （5分登壇）
 - タイトル：全人類歓喜！『恋愛相談SNS』作りました
 - 発表内容：Vue.js と AWS Amplify を使って、恋愛相談SNS を作った。という話。
 - 使用技術：Vue.js, AWS Amplify
 - 開催概要：準備中
-- 資料公開：準備中
+- 資料公開：[YouTube公開版](https://www.youtube.com/watch?v=NWgfLBqZhk4)
 
 </details>
 
