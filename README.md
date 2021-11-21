@@ -17,6 +17,14 @@ GitHub では、個人開発したアプリを公開しています。
 <details>
 <summary>2021年度</summary>
 
+#### 2021年9月14日　［社外］IoTLT vol.79（5分登壇）
+- タイトル：Node-RED を使って Zoom 会議を作成する
+- 発表内容：Node-RED と Zoom API を使って、Zoom 会議を作成するアプリを簡単に作りました。という話。
+- 使用技術：Node-RED, Zoom API
+- 開催概要：[IoT縛りの勉強会! IoTLT vol.79](https://iotlt.connpass.com/event/222525/)
+- 資料公開：[公式YouTube動画](https://youtu.be/6Llyi9BNYog?t=5309) / [Speaker Deck](https://speakerdeck.com/hayate_h/lt-node-redwoshi-tutezoomhui-yi-wozuo-cheng-suru)
+- 詳細記事：[TechHarmony - Node-REDを使って、チームメンバーがZoom会議を発行できるようにする](https://blog.usize-tech.com/node-red-zoom-meeting/)
+
 #### 2021年6月25日　［社外］APN New Grads Reunion 2021 #1（15分登壇）
 - タイトル：休日の予定提案アプリ、AWSで作りました。
 - 発表内容：AWS のサービスを活用して、休日の予定を提案してくれるアプリを作りました。という話。
@@ -34,7 +42,7 @@ GitHub では、個人開発したアプリを公開しています。
 - タイトル：全人類歓喜！『恋愛相談SNS』作りました
 - 発表内容：Vue.js と AWS Amplify を使って、恋愛相談SNS を作った。という話。
 - 使用技術：Vue.js, AWS Amplify
-- 開催概要：準備中
+- 開催概要：非公開
 - 資料公開：[YouTube公開版](https://www.youtube.com/watch?v=NWgfLBqZhk4)
 
 </details>
