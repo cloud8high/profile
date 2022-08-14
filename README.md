@@ -1,7 +1,7 @@
 # Hayate.H (@cloud8high)
 
 ## 自己紹介
-SIer勤務の4年目・週末エンジニア  
+SIer勤務の5年目・全て中途半端系エンジニア  
 2018年から新卒で大手SIerに勤める。企画系の部署に所属中。  
 GitHub では、個人開発したアプリを公開しています。  
 ライトニングトークで登壇することが好きです。
@@ -16,6 +16,13 @@ GitHub では、個人開発したアプリを公開しています。
 ### ライトニングトーク・登壇
 <details>
 <summary>2021年度</summary>
+
+#### 2021年12月9日　［社内］MSPサービス事例説明会（30分登壇）
+- タイトル：ワクチンシステムの裏側
+- 発表内容：AWS のサーバレス構成で、社内のコロナウイルス職域接種システムを作りましたという話
+- 使用技術：Vue.js, AWS Amplify, AWS の各種サービス
+- 開催概要：非公開
+- 資料公開：非公開
 
 #### 2021年9月14日　［社外］IoTLT vol.79（5分登壇）
 - タイトル：Node-RED を使って Zoom 会議を作成する
@@ -168,10 +175,15 @@ GitHub では、個人開発したアプリを公開しています。
 #### 情報処理技術者試験
 - 基本情報技術者試験（2018年4月取得）
 - 応用情報技術者試験（2019年4月取得）
+- ネットワークスペシャリスト試験（2022年4月取得）
 
 #### AWS資格
-- AWS - SAA（2020年11月取得）
-- AWS - DVA（2021年7月取得）
-- AWS - SOA（2021年7月取得）
-- AWS - DOP（2021年9月取得）
+- AWS Cloud Practitioner（2022年07月取得）
+- AWS Solutions Architect - Associate（2020年11月取得）
+- AWS Developer Associate（2021年07月取得）
+- AWS SysOps Administrator Associate（2021年07月取得）
+- **AWS DevOps Engineer - Professional**（2021年09月取得）
+- **AWS Solutions Architect - Professional**（2022年07月取得）
+- ![image](https://user-images.githubusercontent.com/40209684/184538110-bbe9a276-b9e8-461e-88e1-5b34b698bef8.png)
+
 </details>
