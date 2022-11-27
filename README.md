@@ -15,6 +15,21 @@ GitHub では、個人開発したアプリを公開しています。
 ## 活動履歴（主要なもののみ）
 ### ライトニングトーク・登壇
 <details>
+<summary>2022年度</summary>
+
+#### 2022年6月23日　［社内］サーバレス勉強会（30分登壇）
+- タイトル：職域接種システムの開発秘話
+- 発表内容：AWS のサーバレス構成で、社内のコロナウイルス職域接種システムを作りましたという話
+- 使用技術：Vue.js, AWS Amplify, AWS の各種サービス
+- 開催概要：[TechHarmony勉強会 #20開催レポート](https://blog.usize-tech.com/thseminor20-report/)
+- 資料公開：非公開
+- 関連記事：
+    - [公式プレスリリース](https://www.scsk.jp/news/2021/press/product/20210712.html)  
+    - [約10日で「新型コロナワクチン職域接種予約システム」を構築 - ITmedia エンタープライズ](https://www.itmedia.co.jp/enterprise/articles/2107/13/news067.html)
+
+</details>
+
+<details>
 <summary>2021年度</summary>
 
 #### 2021年12月9日　［社内］MSPサービス事例説明会（30分登壇）
