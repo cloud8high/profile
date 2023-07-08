@@ -193,13 +193,25 @@ GitHub では、個人開発したアプリを公開しています。
 - ネットワークスペシャリスト試験（2022年4月合格）
 - 情報処理安全確保支援士試験（2023年4月合格）
 
-#### AWS資格
-- AWS Cloud Practitioner（2022年07月取得）
-- AWS Solutions Architect - Associate（2020年11月取得）
-- AWS Developer Associate（2021年07月取得）
-- AWS SysOps Administrator Associate（2021年07月取得）
-- **AWS DevOps Engineer - Professional**（2021年09月取得）
-- **AWS Solutions Architect - Professional**（2022年07月取得）
+#### AWS 資格
+- AWS Cloud Practitioner
+- AWS Solutions Architect - Associate（2020年11月合格）
+- AWS Developer Associate（2021年07月合格）
+- AWS SysOps Administrator Associate（2021年07月合格）
+- **AWS DevOps Engineer - Professional**（2021年09月合格）
+- **AWS Solutions Architect - Professional**（2022年07月合格）
 - ![image](https://user-images.githubusercontent.com/40209684/184538110-bbe9a276-b9e8-461e-88e1-5b34b698bef8.png)
+
+#### Google Cloud 資格
+- Cloud Digital Leader
+- Associate Cloud Engineer（2023年01月合格）
+- **Professional Cloud Architect**（2023年01月合格）
+- **Professional Cloud Developer**（2023年01月合格）
+- **Professional Data Engineer**（2023年02月合格）
+- **Professional Cloud Security Engineer**（2023年03月合格）
+- **Professional Google Workspace Administrator**（2023年05月合格）
+
+#### Microsoft Azure 資格
+- AZ104 (AdministratorAssociate)（2023年02月合格）
 
 </details>
