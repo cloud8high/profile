@@ -1,19 +1,37 @@
 # Hayate.H (@cloud8high)
 
 ## 自己紹介
-SIer勤務の5年目・全て中途半端系エンジニア  
-2018年から新卒で大手SIerに勤める。企画系の部署に所属中。  
-GitHub では、個人開発したアプリを公開しています。  
+SIer勤務の6年目・週末エンジニア  
+2018年に新卒で大手SIerに入り、東京で事業企画等を経験。  
+2023年から大阪転勤 & インフラ営業に転身。  
+この GitHub では、個人開発したアプリを公開しています。  
 ライトニングトークで登壇することが好きです。
 
-- GitHub : [@cloud8high](https://github.com/cloud8high)
-- Twitter : [@cloud8high](https://twitter.com/cloud8high)
-- Qiita : [hayate_h](https://qiita.com/hayate_h)
-- TechHarmony : [author](https://blog.usize-tech.com/author/ha-higuchi/)
-- YouTube : [HayaTech Channel](https://www.youtube.com/channel/UCkWKe-aNQH3ALygSnt81VPw)
+| リンク先 | カテゴリ | アカウント情報 |
+| :--- | :--- | :--- | 
+| GitHub | ソースコード | [@cloud8high](https://github.com/cloud8high) |
+| Qiita | 技術ブログ | [hayate_h](https://qiita.com/hayate_h) |
+| TechHarmony | 技術ブログ | [author](https://blog.usize-tech.com/author/ha-higuchi/) |
+| YouTube | 動画 | [HayaTech Channel](https://www.youtube.com/channel/UCkWKe-aNQH3ALygSnt81VPw) |
+| Speaker Deck | スライド | [hayate_h](https://speakerdeck.com/hayate_h) |
+| Twitter | 情報発信・収集 | [@cloud8high](https://twitter.com/cloud8high) |
+
 
 ## 活動履歴（主要なもののみ）
 ### ライトニングトーク・登壇
+<details>
+<summary>2023年度</summary>
+
+#### 2023年7月13日　［社外］みんなのPython勉強会 #95（5分登壇）
+- タイトル：【推しのLINE】
+- 発表内容：推しキャラと、LINEで「しりとり」ができるゲームを開発した話
+- 使用技術：LINE Messaging API, GPT API, AWS CDK
+- 開催概要：[みんなのPython勉強会 #95](https://startpython.connpass.com/event/284967/)
+- 資料公開：[「しりとり上手の高木さん」と、LINEでしりとり勝負をしたい！ - Qiita](https://qiita.com/hayate_h/items/2e8ee634b456d751f744)
+    - 発表動画やスライド資料、ソースコードも上記リンクに掲載
+
+</details>
+
 <details>
 <summary>2022年度</summary>
 
@@ -151,7 +169,7 @@ GitHub では、個人開発したアプリを公開しています。
 
 #### 2019年7月19日, 20日　社内ハッカソン@大阪
 - タイトル：結果にコミットする。「DIZAP」
-- 作った物：スマートグラスが食品の摂取カロリーを判定し、Google Home がそのカロリーを消費するトレーニングメニューを教えてくれる。MESHを腰につけてスクワットすると、スマートグラスにスクワット回数がカウントされる。というシステム。「テクテク賞」を受賞。  
+- 作った物：スマートグラスが食品の摂取カロリーを判定し、Google Home がそのカロリーを消��するトレーニングメニューを教えてくれる。MESHを腰につけてスクワットすると、スマートグラスにスクワット回数がカウントされる。というシステム。「テクテク賞」を受賞。  
 - 使用技術：MOVERIO（スマートグラス）, Google Home（スマートスピーカー）, MESH（IoTセンサー）, Firebase（ホスティングサービス）
 - 開催概要：https://technomado.jp/tech/6470/
 
@@ -183,15 +201,15 @@ GitHub では、個人開発したアプリを公開しています。
 - 社内の技術同好会。もくもく会。月一で活動中。
 </details>
 
-### 資格
+### 保有資格
 <details>
 <summary>クリックして展開</summary>
 
 #### 情報処理技術者試験
-- 基本情報技術者試験（2018年4月合格）
-- 応用情報技術者試験（2019年4月合格）
-- ネットワークスペシャリスト試験（2022年4月合格）
-- 情報処理安全確保支援士試験（2023年4月合格）
+- 基本情報技術者試験（2018年5月合格）
+- 応用情報技術者試験（2019年6月合格）
+- ネットワークスペシャリスト試験（2022年6月合格）
+- 情報処理安全確保支援士試験（2023年6月合格）
 
 #### AWS 資格
 - AWS Cloud Practitioner
